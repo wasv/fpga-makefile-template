@@ -1,0 +1,16 @@
+db/
+incremental_db/
+*.log
+*.rpt
+*.chg
+*.jdi
+*.pin
+*.sof
+*.summary
+*.svf
+*.sld
+*.qsf
+*.qpf
+*.smsg
+*.sopcinfo
+*.jic
